@@ -2,14 +2,28 @@
     <channel>
         <title><![CDATA[Test 256]]></title>
         <description><![CDATA[Test 256]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/test-256/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 23 Oct 2015 12:59:50 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 24 Oct 2015 08:38:57 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/test-256/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Another attempt]]></title>
+            <description><![CDATA[<article><h1>Another attempt</h1><p>This is my third post</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7117742d-1758-42ac-b072-0bed6ccaa5fa.jpg"></article>]]></description>
+            <link>https://thegrid.ai/test-256/another-attempt/index.html</link>
+            <guid isPermaLink="false">1fa976f3-d8eb-430e-ac7e-f26ef82b55cb</guid>
+            <pubDate>Sat, 24 Oct 2015 08:38:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d9adc755-5f90-4a38-8e9c-851b16e09e53.jpg">]]></description>
+            <link>https://thegrid.ai/test-256/172aa81c-dc67-4147-861e-d9e37b943cf5/index.html</link>
+            <guid isPermaLink="false">172aa81c-dc67-4147-861e-d9e37b943cf5</guid>
+            <pubDate>Fri, 23 Oct 2015 14:04:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0aa88940-88ab-4edb-b3f2-bd5b54758b93.png">]]></description>
-            <link>undefinedc7e5f1bb-6e70-48b9-81cd-d6afcecf01fc/index.html</link>
+            <link>https://thegrid.ai/test-256/c7e5f1bb-6e70-48b9-81cd-d6afcecf01fc/index.html</link>
             <guid isPermaLink="false">c7e5f1bb-6e70-48b9-81cd-d6afcecf01fc</guid>
             <pubDate>Fri, 23 Oct 2015 12:59:36 GMT</pubDate>
         </item>
